@@ -1,0 +1,71 @@
+Compra_realizada,Razon_no_compra,Percepcion_precio,Disposicion_precio_premium,Intencion_recomendar
+1,Prefiero cocinar,4,0,2
+0,N/A,3,0,2
+0,Prefiero cocinar,2,1,4
+1,Interfaz difícil,2,2,4
+1,Prefiero cocinar,3,2,3
+1,N/A,3,2,3
+1,N/A,3,1,3
+0,N/A,3,2,2
+0,N/A,4,0,4
+0,No me gustó el menú,3,2,1
+1,N/A,3,0,3
+0,N/A,2,2,2
+0,N/A,3,1,4
+1,N/A,1,2,3
+1,N/A,3,2,3
+1,Otro,2,0,4
+1,N/A,2,1,4
+1,Interfaz difícil,4,2,1
+1,N/A,3,2,2
+1,Interfaz difícil,2,0,4
+0,N/A,2,1,3
+1,N/A,3,0,3
+1,Otro,3,2,2
+1,No confío en calidad,2,1,4
+1,No me gustó el menú,2,0,4
+0,N/A,3,0,4
+1,Precio alto,4,0,3
+1,N/A,1,1,3
+1,N/A,3,2,4
+1,Precio alto,3,2,1
+0,Precio alto,2,0,3
+1,N/A,2,1,4
+1,N/A,2,1,4
+0,Precio alto,3,1,4
+0,Interfaz difícil,3,1,1
+0,Prefiero cocinar,2,2,3
+1,N/A,3,1,3
+1,N/A,4,1,3
+0,N/A,1,0,3
+1,N/A,3,0,2
+1,N/A,3,1,4
+1,N/A,1,1,3
+1,Prefiero cocinar,1,2,4
+0,N/A,3,1,4
+1,N/A,2,1,3
+0,N/A,4,1,4
+1,Interfaz difícil,3,1,4
+1,N/A,2,0,3
+1,N/A,2,1,1
+1,Precio alto,2,0,4
+0,N/A,3,2,4
+0,N/A,2,1,2
+0,N/A,2,2,2
+0,N/A,1,1,3
+1,N/A,2,2,3
+0,Interfaz difícil,2,1,3
+1,Interfaz difícil,3,1,4
+1,Otro,3,2,1
+1,N/A,1,1,2
+1,N/A,1,1,4
+1,N/A,3,1,4
+1,Prefiero cocinar,3,1,1
+0,N/A,3,0,3
+1,N/A,3,1,3
+1,No confío en calidad,1,2,3
+1,N/A,4,2,3
+1,No me gustó el menú,4,2,1
+0,No me gustó el menú,3,1,1
+1,Interfaz difícil,4,1,2
+0,N/A,3,0,3
